@@ -49,7 +49,21 @@ After compiling the code, you can use the hash code implementation as follows:
 4. Insert key-value pairs into the hash table using the provided functions.
 5. Retrieve values from the hash table using the provided functions.
 
+
+## Contributing
+Contributions to this project are welcome! To contribute, follow these steps:
+
+Fork the project.
+Create a new branch: git checkout -b feature/new-feature.
+Commit your changes: git commit -am 'Add new feature'.
+Push to the branch: git push origin feature/new-feature.
+Submit a pull request.
+# License
+This project is licensed under the MIT License. See LICENSE for more information.
+
+
 ## Here's a simple example:
+
 
 ```c
 #include <stdio.h>
@@ -77,18 +91,5 @@ int main(void)
 
     return 0;
 }
-Contributing
-Contributions to this project are welcome! To contribute, follow these steps:
 
-Fork the project.
-Create a new branch: git checkout -b feature/new-feature.
-Commit your changes: git commit -am 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Submit a pull request.
-License
-This project is licensed under the MIT License. See LICENSE for more information.
 
-css
-Copy code
-
-Feel free to customize this README file according to your specific project details and requirements.
